@@ -9,10 +9,10 @@
 
 ## TASK-5-FULLSTACK
 <p align="justify">
-<b>Membangun Blog Sederhana Menggunakan laravel Blade serta Laravel UI.</b>
+&emsp; <b>Membangun Blog Sederhana Menggunakan laravel Blade serta Laravel UI.</b>
 Ini adalah suatu aplikasi web / sistem informasi manajemen artikel yang merupakan tugas akhir <b>“Investree Fullstack Developer Virtual Interenship”</b>. yang dimana tugas ini untuk memenuhi tugas akhir sebelum menyelesaikan program virtual interenship ini. 
 
-Pada web ini kita bisa melihat daftar artikel setelah itu melihat detail dari artikel tersebut. Dan kita pun bisa menambahkan, ubah dan menghapus artikel ketika kita sudah login. Bukan hanya artikel tetapi kita bisa menambahkan kategorinya. Pada Project ini terdapat file sql untuk db nya dan pastinya bisa di import ke database, untuk nama file nya <b>“laravel_test.sql”.</b>
+&emsp; Pada web ini kita bisa melihat daftar artikel setelah itu melihat detail dari artikel tersebut. Dan kita pun bisa menambahkan, ubah dan menghapus artikel ketika kita sudah login. Bukan hanya artikel tetapi kita bisa menambahkan kategorinya. Pada Project ini terdapat file sql untuk db nya dan pastinya bisa di import ke database, untuk nama file nya <b>“laravel_test.sql”.</b>
 </p>
 
 <p align="justify">
