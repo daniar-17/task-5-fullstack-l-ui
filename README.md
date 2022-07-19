@@ -35,19 +35,19 @@ https://docs.google.com/document/d/1Pcw1-KTYaY_AsQXS_OzxNLn2qEL2GwbQ/edit?usp=sh
 ## Ini Beberapa Contoh Tampilannya :
 <br>
 
-<img src="https://user-images.githubusercontent.com/81208093/179648891-9eb700c0-474b-418d-88a4-704da6e5bde4.PNG" width="600" height="350">
+<kbd><img src="https://user-images.githubusercontent.com/81208093/179648891-9eb700c0-474b-418d-88a4-704da6e5bde4.PNG" width="600" height="350"></kbd>
 <br>
 
-<img src="https://user-images.githubusercontent.com/81208093/179649751-8174ce0e-616e-40c8-8f65-6e000b6aae35.PNG" width="600" height="350">
+<kbd><img src="https://user-images.githubusercontent.com/81208093/179649751-8174ce0e-616e-40c8-8f65-6e000b6aae35.PNG" width="600" height="350"></kbd>
 <br>
 
-<img src="https://user-images.githubusercontent.com/81208093/179650168-51cc6512-7bc8-4215-b61c-7695bfa8d1a6.PNG" width="600" height="350">
+<kbd><img src="https://user-images.githubusercontent.com/81208093/179650168-51cc6512-7bc8-4215-b61c-7695bfa8d1a6.PNG" width="600" height="350"></kbd>
 <br>
 
-<img src="https://user-images.githubusercontent.com/81208093/179651135-56b29c12-b179-4b39-a5cc-680c60ee9d43.PNG" width="600" height="350">
+<kbd><img src="https://user-images.githubusercontent.com/81208093/179651135-56b29c12-b179-4b39-a5cc-680c60ee9d43.PNG" width="600" height="350"></kbd>
 <br>
 
-<img src="https://user-images.githubusercontent.com/81208093/179651236-5205d7c0-f268-476c-86f6-1efe7fa0bd32.PNG" width="600" height="350">
+<kbd><img src="https://user-images.githubusercontent.com/81208093/179651236-5205d7c0-f268-476c-86f6-1efe7fa0bd32.PNG" width="600" height="350"></kbd>
 <br>
 
 
