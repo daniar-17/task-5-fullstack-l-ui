@@ -28,6 +28,21 @@ Oke setelah semua selesai saya akan coba jelaskan mengenai menu yang terdapat pa
 Menu yang ada pada web :
 <b>1. Menu Utama</b><br>
 &emsp; Menu utama ini kita akan disuguhkan dengan tampilan web yang menampilkan artikel-artikel yang sudah dibuat.
+
+<img src="https://user-images.githubusercontent.com/81208093/179648891-9eb700c0-474b-418d-88a4-704da6e5bde4.PNG" width="500" height="300">
+<br>
+
+<b>2 Detail Artikel</b><br>
+&emsp; Detail artikel ini menampilkan secara lengkap tentang artikel tersebut, dari judul, kategori, gambar, waktu dibuat, serta isi content artikel tersebut.
+
+<img src="https://user-images.githubusercontent.com/81208093/179649751-8174ce0e-616e-40c8-8f65-6e000b6aae35.PNG" width="500" height="300">
+<br>
+
+<b>3 Login </b><br>
+&emsp; Dimana pada menu login ini kita harus mengisi email address dan password agar bisa masuk ke menu CRUD yang dimana nantinya kita menambah, ubah dan hapus artikel.
+
+<img src="https://user-images.githubusercontent.com/81208093/179650168-51cc6512-7bc8-4215-b61c-7695bfa8d1a6.PNG" width="500" height="300">
+<br>
+    
 </p>
-![image](https://user-images.githubusercontent.com/81208093/179648577-476a0c37-b250-428a-ba4d-00e81b680127.png)
 
